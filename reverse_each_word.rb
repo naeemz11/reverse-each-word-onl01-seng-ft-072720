@@ -5,4 +5,3 @@ def reverse_each_word(sentence1)
      rev.reverse
   end
 end 
-puts reverse_each_word(sentence1)
