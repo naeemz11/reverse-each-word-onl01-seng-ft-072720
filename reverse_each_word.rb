@@ -4,6 +4,5 @@ def reverse_each_word(sentence1)
   sentence1.each do |rev|
      rev.reverse
   end
-  return rev
 end 
 puts reverse_each_word(sentence1)
