@@ -6,3 +6,4 @@ def reverse_each_word(sentence1)
   end
   return rev
 end 
+puts reverse_each_word(sentence1)
